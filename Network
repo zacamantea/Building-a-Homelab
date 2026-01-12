@@ -1,0 +1,37 @@
+# Network
+
+## Goals
+- Segment traffic
+- Protect management systems
+- Support remote access
+
+## Topology Overview
+Describe how traffic flows.
+
+Example
+ISP modem -> Router -> Switch -> Servers and APs
+
+## VLANs and Subnets
+List each network.
+
+Example format
+- VLAN ID:
+- Name:
+- Subnet:
+- Purpose:
+
+## IP Management
+- Static IP rules:
+- DHCP ranges:
+- DNS servers:
+
+## Remote Access
+- VPN or tunnel method:
+- Auth method:
+- Devices allowed:
+
+## Firewall Rules
+List key rules and reasons.
+
+## Known Issues
+Track problems and fixes.
