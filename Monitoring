@@ -1,0 +1,28 @@
+# Monitoring
+
+## Goals
+- Detect failures
+- Track resource use
+- Alert on outages
+
+## Tools Used
+- Service:
+- Purpose:
+
+## Metrics Tracked
+- CPU
+- RAM
+- Disk
+- Network
+- Service uptime
+
+## Alerts
+- Trigger conditions:
+- Notification method:
+
+## Dashboards
+- URL or service name:
+- What it shows:
+
+## Follow Up Actions
+What to do after an alert.
