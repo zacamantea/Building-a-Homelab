@@ -1,0 +1,37 @@
+# Services
+
+## Purpose
+This page lists all hosted services and why they exist.
+
+## Core Infrastructure
+Example
+- Proxmox
+  - Purpose:
+  - Notes:
+
+- Docker host
+  - Purpose:
+  - Notes:
+
+## Media and Personal
+- Service name:
+  - Container or VM:
+  - Port:
+  - Data path:
+  - Reason for hosting:
+
+## Game Servers
+- Game:
+  - Modpack or version:
+  - Host:
+  - Memory:
+  - Notes:
+
+## Web and Dev
+- Service:
+  - URL:
+  - Stack:
+  - Purpose:
+
+## Retired Services
+Track removed systems and why.
