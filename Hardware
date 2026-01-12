@@ -1,0 +1,36 @@
+# Hardware
+
+## Purpose
+This page tracks all physical gear in the lab.
+
+## Servers and Nodes
+List each system.
+
+Example format
+- Name:
+- Model:
+- CPU:
+- RAM:
+- Storage:
+- Role:
+
+## Storage
+List disks and pools.
+
+- Pool name:
+- RAID or ZFS type:
+- Total size:
+- Used for:
+
+## Networking Gear
+- Router:
+- Switches:
+- Access points:
+
+## Power
+- UPS model:
+- Protected devices:
+- Estimated runtime:
+
+## Notes
+Use this section for upgrades and issues.
