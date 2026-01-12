@@ -1,0 +1,28 @@
+# Backups
+
+## Goals
+- Protect configs
+- Protect service data
+- Allow fast restore
+
+## What Gets Backed Up
+- VM configs
+- Container volumes
+- Important folders
+
+## Backup Methods
+- Snapshot type:
+- File backups:
+- Offsite sync:
+
+## Schedule
+- Daily:
+- Weekly:
+- Monthly:
+
+## Storage Locations
+- Local target:
+- Offsite target:
+
+## Restore Process
+Write exact steps to restore data.
