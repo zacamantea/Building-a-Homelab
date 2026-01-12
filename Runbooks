@@ -1,0 +1,31 @@
+# Runbooks
+
+## Purpose
+This page gives step by step actions for common tasks.
+
+## Reboot and Recovery
+Steps to bring systems back after power loss.
+
+1. Check UPS and power.
+2. Start router and switch.
+3. Start Proxmox host.
+4. Verify storage pools.
+5. Start critical VMs and containers.
+
+## Adding a New VM
+1. Create VM in Proxmox.
+2. Set CPU and RAM.
+3. Attach storage.
+4. Install OS.
+5. Apply updates.
+6. Add to monitoring.
+
+## Adding a Docker Service
+1. Create stack file.
+2. Set volumes and ports.
+3. Deploy in Dockge or Portainer.
+4. Test access.
+5. Add backup paths.
+
+## Common Fixes
+List frequent issues and commands.
