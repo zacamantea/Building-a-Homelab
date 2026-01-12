@@ -1,51 +1,42 @@
-+# Building-a-Homelab
-+
-+## Overview
-+This repo documents my homelab journey: what I built, why I built it, what it runs, and how I keep it documented. It is a living record of decisions, changes, and the current state of the lab.
-+
-+## Goals & Scope
-+- Capture the “why” behind architecture and tooling choices.
-+- Track what’s deployed, how it’s configured, and how it’s maintained.
-+- Provide a repeatable reference for rebuilds, migrations, and recovery.
-+
-+## Current State
-+- **Status:** Actively building and documenting.
-+- **Last updated:** Ongoing; see the changelog in `docs/changelog.md`.
-+
-+## Hardware Inventory
-+- **Servers:** (add model/specs)
-+- **Storage:** (add disks/arrays)
-+- **Networking:** (add switches/APs)
-+- **Power & racks:** (add UPS/rack details)
-+
-+## Network Topology
-+See `docs/network.md` for a living description of VLANs, addressing, and routing decisions.
-+
-+## Services & Why
-+See `docs/services.md` for a list of services, their purpose, and the rationale behind each choice.
-+
-+## Build Log / Timeline
-+Key milestones and changes are tracked in `docs/changelog.md`.
-+
-+## Documentation Rationale
-+Good documentation is the backbone of a stable homelab. It helps with:
-+- **Repeatability:** Rebuild or migrate without guesswork.
-+- **Resilience:** Faster recovery during outages or failures.
-+- **Clarity:** Remembering why certain decisions were made.
-+- **Sharing:** Helping others understand and learn from the setup.
-+
-+## How to Read This Repo
-+- Start with this README for the high-level view.
-+- Dive into `docs/` for details on services, network, and changes.
-+
-+## Status & Roadmap
-+**Completed**
-+- Repo initialized
-+
-+**In Progress**
-+- Documenting baseline hardware and network layout
-+
-+**Planned**
-+- Add service inventory with reasons and runbooks
-+- Add backups and monitoring strategy
-+- Add diagrams for network and service topology
+# Building-a-Homelab
+
+## Overview
+This repo documents your homelab. What you built. Why you built it. What it runs. How you keep it running. It tracks changes and the current state of the lab.
+
+## Goals
+- Record design decisions.
+- Track systems and services.
+- Support rebuilds and recovery.
+- Keep configs and notes in one place.
+
+## Current Status
+Status: Actively building  
+Last updated: See docs/changelog.md
+
+## What is Documented Here
+- Hardware and power
+- Network layout
+- Services and containers
+- Backups and monitoring
+- Step by step runbooks
+
+## Start Here
+1. Read docs/hardware.md to see what runs the lab.
+2. Read docs/network.md to understand the layout.
+3. Read docs/services.md to see what is hosted.
+4. Use docs/runbooks.md when fixing or rebuilding.
+
+## Roadmap
+
+Completed
+- Repo created
+
+In Progress
+- Hardware inventory
+- Network layout
+
+Planned
+- Full service list
+- Backup strategy
+- Monitoring setup
+- Diagrams
