@@ -1,7 +1,7 @@
 # Building-a-Homelab
 
 ## Overview
-This repo documents your homelab. What you built. Why you built it. What it runs. How you keep it running. It tracks changes and the current state of the lab.
+This repo documents my homelab. What i built. Why I built it. What it runs. How I keep it running. It tracks changes and the current state of the lab.
 
 ## Goals
 - Record design decisions.
