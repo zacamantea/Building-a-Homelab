@@ -7,11 +7,12 @@ This page tracks all physical gear in the lab.
 List each system.
 
 Example format
-- Name:
+- Name: Main Node
 - Model:
-- CPU:
-- RAM:
-- Storage:
+- CPU: Ryzen 7900
+- RAM: 32GB DDR5 (1x32)
+- Storage: 2TB M.2
+- Storage: 8TB Harddrive
 - Role:
 
 ## Storage
